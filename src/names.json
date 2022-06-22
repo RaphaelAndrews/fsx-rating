@@ -1,0 +1,58 @@
+[
+    {
+    "name": "Arthur Ruiz Patroclo",
+    "title": "NM",
+    "blitz": "1906",
+    "rapid": "1902",
+    "pensado": "1901",
+    "imgUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+  },
+  {
+    "name": "Weslley Abreu Santana",
+    "title": "MSE",
+    "blitz": "1909",
+    "rapid": "1908",
+    "pensado": "1905",
+    "imgUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+  },
+  {
+    "name": "José Gustavo dos Santos Marques",
+    "title": "NM",
+    "blitz": "1902",
+    "rapid": "1903",
+    "pensado": "1908",
+    "imgUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+  },
+  {
+    "name": "Luiz Henrique Lopes da Silva",
+    "title": "MSE",
+    "blitz": "1904",
+    "rapid": "1908",
+    "pensado": "1905",
+    "imgUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+  },
+  {
+    "name": "Igor de Souza Melo",
+    "title": "NM",
+    "blitz": "1907",
+    "rapid": "1904",
+    "pensado": "1906",
+    "imgUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+  },
+  {
+    "name": "Matheus Silva Santos",
+    "title": "MSE",
+    "blitz": "1903",
+    "rapid": "1902",
+    "pensado": "1909",
+    "imgUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+  },
+  {
+    "name": " Santos",
+    "title": "MSE",
+    "blitz": "1903",
+    "rapid": "1902",
+    "pensado": "1909",
+    "imgUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+  }
+]
